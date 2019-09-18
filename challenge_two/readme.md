@@ -44,9 +44,9 @@ Each card must contain:
 Another common Content Block we often build is a call to action or side by side block that invites the user to engage with the page in some way. 
 
 
-![CTA Example 3](./images/ctas/CTA_3.png "CTA Example 3")
-![CTA Example 1](./images/ctas/CTA_1.png "CTA Example 1")
-![CTA Example 2](./images/ctas/CTA_2.png "CTA Example 2")
+![CTA Example 3](./images/ctas/cta_3.png "CTA Example 3")
+![CTA Example 1](./images/ctas/cta_1.png "CTA Example 1")
+![CTA Example 2](./images/ctas/cta_2.png "CTA Example 2")
 
 ## Challenge 2.1
 
