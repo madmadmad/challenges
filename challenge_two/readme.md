@@ -65,3 +65,7 @@ Create a side by side / call to action content block that:
 
   - Target Skills/Languages: HTML, CSS
   - Estimated Completion Time: 30 minutes - 1 hour
+
+  ## End-Product
+
+  The two content blocks should live in the same file and share the same stylesheet. Please place all final files into the `challenge_two` folder. 
