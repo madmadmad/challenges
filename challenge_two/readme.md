@@ -2,7 +2,7 @@
 
 ## Content Blocks
 
-Madhouse utilizes what we refer to as Content Blocks - discreet sections of a webpage that act as standalone pieces in the content management system. Some examples of common content blocks are outlined below, along with two challenges for you to complete.
+Madhouse utilizes what we refer to as Content Blocks - discrete sections of a webpage that act as standalone pieces in the content management system. Some examples of common content blocks are outlined below, along with two challenges for you to complete.
 
 ## Baseball Cards
 
