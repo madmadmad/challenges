@@ -8,4 +8,4 @@ This repo is a collection of three challenges: one that requires identifying and
 
 ## Instructions
 
-Please fork or clone this repo and add your new/modified files to it as instructed in each challenges' README file. 
+Please fork or clone this repo and add your new/modified files to it as instructed in each challenge's README file. 
