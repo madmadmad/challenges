@@ -1,0 +1,53 @@
+$small-width: 576px;
+$medium-width: 768px;
+$large-width: 992px;
+$xlarge-width: 1200px;
+
+@mixin small {
+  @media (min-width: #{$small-width}) {
+    @content;
+  }
+}
+
+@mixin medium {
+  @media (min-width: #{$medium-width}) {
+    @content;
+  }
+}
+
+@mixin large {
+  @media (min-width: #{$large-width}) {
+    @content;
+  }
+}
+
+@mixin xlarge {
+  @media (min-width: #{$xlarge-width}) {
+    @content;
+  }
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+// import partials
+@import "./_section-wrapper.scss";
+@import "./_grid.scss";
+@import "./_btn.scss";
+
+// side-by-side styles
+@import "./_banner.scss";
+
+// fadeIn class
+@import "./_fadeIn.scss";
+
+//IE11 classes
+@import "./_ie11.scss";
