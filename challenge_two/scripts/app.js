@@ -33,4 +33,9 @@ axios
       const btn = item.querySelector(".btn");
       btn.href = data[index].url;
     });
+  })
+  .catch(function(err) {
+    // handle errors
+    console.log(err);
+    document.querySelector(".error-text").classList.add("display-error");
   });

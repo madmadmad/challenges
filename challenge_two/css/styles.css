@@ -258,6 +258,15 @@ html {
   opacity: 1;
 }
 
+.error-text {
+  display: none;
+  color: red;
+}
+
+.display-error {
+  display: inline;
+}
+
 .ie11 .grid-container {
   display: -webkit-box;
   display: -ms-flexbox;
