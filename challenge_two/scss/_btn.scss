@@ -1,0 +1,24 @@
+.btn {
+  width: 150px;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  color: white;
+  text-decoration: none;
+  transition: all 0.3s;
+  font-size: 1.6rem;
+
+  &--green {
+    background-color: #4bb543;
+
+    &:hover {
+      background-color: #68da60;
+    }
+  }
+
+  &--rounded {
+    border-radius: 25px;
+  }
+}

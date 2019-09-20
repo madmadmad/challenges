@@ -1,0 +1,11 @@
+.ie11 {
+  .grid-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .grid-item {
+    margin: 10px;
+  }
+}
